@@ -1,0 +1,59 @@
+{
+  "table": {
+    "isActive": false,
+    "rowsLimit": 5
+  },
+  "charts": {
+    "isActive": true
+  },
+  "metaTags": {
+    "title": "",
+    "description": "",
+    "image": ""
+  },
+  "analytics_ids": [],
+  "excluded_plugins": ["minimap"],
+  "mapConfig": {
+    "center": {
+      "latitude": -23.1439,
+      "longitude": -64.322
+    },
+    "zoom": {
+      "initial": 13,
+      "min": 3,
+      "max": 21
+    }
+  },
+  "showSearchBar": false,
+  "referencias": {
+    "show": true,
+    "src": "src/styles/images/referencias_icono.png",
+    "width":"25px",
+    "height":"31px"
+  },
+  "theme": {
+    "bodyBackground": "#14764f",
+    "headerBackground": "#2c95fe",
+    "menuBackground": "#14764f",
+    "activeLayer": "#f2efe9",
+    "textMenu":"white",
+    "textMenuStyle":"",
+    "textLegendMenu":"silver",
+    "textLegendMenuStyle":"",
+    "iconBar":"#14764f"
+    },
+  "logo": {
+    "title":"Municipalidad de San Ramon de la Nueva Oran",
+    "src": "src/config/styles/images/logo.png",
+    "height": "40px",
+    "width": "",
+    "style": "",
+    "srcLogoMini": "src/config/styles/images/logo.png",
+    "miniHeight": "40px",
+    "miniWidth": "",
+    "ministyle": ""
+  },
+  "title": "Visor Mapas Oran",
+  "website": "https://www.oran.gob.ar/",
+  "favicon": ""
+}
